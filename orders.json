@@ -1,14 +1,52 @@
 [
   {
+    "id": "0",
     "UUID": "cb37d0a2-e035-4992-a63a-d97fcad2796e",
     "amount": 100
   },
   {
+    "id": "1",
     "UUID": "887851e6-d1f1-4043-90ea-ec006a5ea1a0",
     "amount": 50
   },
   {
+    "id": "2",
     "UUID": "f5a6dd46-4ca3-4450-8832-5d1081ec853b",
     "amount": 150
+  },
+  {
+    "id": "3",
+    "UUID": "4360ef52-e13b-4890-9f0b-5c4ebb588015",
+    "amount": 255
+  },
+  {
+    "id": "4",
+    "UUID": "24edc144-40b9-4fe9-a87d-88f27ce75bc1",
+    "amount": 300
+  },
+  {
+    "id": "5",
+    "UUID": "7cfbaa91-0410-44fe-8a5e-5024e293176c",
+    "amount": 350
+  },
+  {
+    "id": "6",
+    "UUID": "60d56dc6-9948-4fe5-8e2f-d9bfa1e5fac7",
+    "amount": 99
+  },
+  {
+    "id": "7",
+    "UUID": "8c86f206-aa24-4a91-b261-a7c41ec1d35f",
+    "amount": 139
+  },
+  {
+    "id": "8",
+    "UUID": "458b28f0-fa5b-4335-a6dc-3be04aae68f1",
+    "amount": 199
+  },
+  {
+    "id": "9",
+    "UUID": "e67bccaf-e029-4f69-ac6e-c7dd7cddde3a",
+    "amount": 500
   }
 ]
