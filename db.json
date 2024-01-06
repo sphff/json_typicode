@@ -1,5 +1,16 @@
 {
-  "order_id": "00",
-  "station_id": "01",
-  "amount": "100"
+  "orders": [
+    {
+      "UUID": "cb37d0a2-e035-4992-a63a-d97fcad2796e",
+      "amount": 100
+    },
+    {
+      "UUID": "887851e6-d1f1-4043-90ea-ec006a5ea1a0",
+      "amount": 50
+    },
+    {
+      "UUID": "f5a6dd46-4ca3-4450-8832-5d1081ec853b",
+      "amount": 150
+    }
+  ]
 }
